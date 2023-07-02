@@ -1,0 +1,29 @@
+.heading {
+    text-align: center;
+}
+
+.star-container {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 40px;
+}
+
+.star {
+    padding: 5px;
+    margin: 5px;
+    color:gray
+}
+
+.sub-heading {
+    text-align: center;
+}
+
+.filled-star {
+color: burlywood;
+}
+
+.hover-container {
+    cursor: pointer;
+}
